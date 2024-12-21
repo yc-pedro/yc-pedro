@@ -21,8 +21,8 @@
 <details>
   <summary><h2>Status do Admin🐦‍🔥</h2></summary>
   <section align="left">
-    <img alt="Pedro's Readme Stats" src="https://github-readme-stats-yc-pedro.vercel.app/api?username=yc-pedro&show_icons=true&theme=tokyonight&locale=pt-br" />
-    <img alt="Pedro's Language Card" src="https://github-readme-stats-yc-pedro.vercel.app/api/top-langs/?username=yc-pedro&show_icons=true&theme=tokyonight&locale=pt-br&langs_count=6&layout=donut" />
+    <img alt="Pedro's Readme Stats" src="https://github-readme-stats-yc-pedro.vercel.app/api?username=yc-pedro&show_icons=true&theme=tokyonight&locale=pt-br&private-count=true" />
+    <img alt="Pedro's Language Card" src="https://github-readme-stats-yc-pedro.vercel.app/api/top-langs/?username=yc-pedro&show_icons=true&theme=tokyonight&locale=pt-br&langs_count=6&layout=donut&private-count=true" />
   </section>
 </details>
 
