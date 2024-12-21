@@ -6,3 +6,24 @@
 
 ![lofi](https://github.com/user-attachments/assets/38c9ffd7-c343-4534-84d9-08b91d5380d1)
 
+<hr>
+<hr>
+
+<details>
+  <summary><h2>Ferramentas que o Admin anda utilizando⚒️</h2></summary>
+  <section align="left">
+    <img height="60px" width="60px" src="https://cdn.simpleicons.org/html5/E34F26" />
+    <img height="60px" width="60px" src="https://cdn.simpleicons.org/css3/1572B6" />
+    <img height="60px" width="60px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  </section>
+</details>
+
+<details>
+  <summary><h2>Status do Admin🐦‍🔥</h2></summary>
+  <section align="left">
+    <img alt="Pedro's Readme Stats" src="https://github-readme-stats-yc-pedro.vercel.app/api?username=yc-pedro&show_icons=true&theme=tokyonight&locale=pt-br" />
+    <img alt="Pedro's Language Card" src="https://github-readme-stats-yc-pedro.vercel.app/api/top-langs/?username=yc-pedro&show_icons=true&theme=tokyonight&locale=pt-br&langs_count=6&layout=donut" />
+  </section>
+</details>
+
+
